@@ -38,3 +38,6 @@ python manage.py migrate
 ```bash
 python manage.py createsuperuser
 ```
+
+7. 模版配置注意点
+模版的html默认要放在templates文件夹下面才能访问没有templates需要自己创建。
